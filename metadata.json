@@ -1,0 +1,7 @@
+{
+  "name": "ACLIMAR Assistant",
+  "description": "Cockpit comercial local B2B para delegado comercial: gestión supervisada de correos, borradores IMAP sin envío automático, tareas, calendario y auditoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
